@@ -1,0 +1,1 @@
+This project package is provided for educational use. Third-party libraries retain their own licenses.
