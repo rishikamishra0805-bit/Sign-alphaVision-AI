@@ -1,6 +1,8 @@
+streamlit==1.41.1
 numpy==1.26.4
-opencv-python==4.10.0.84
-mediapipe==0.10.14
+opencv-contrib-python==4.10.0.84
+mediapipe==0.10.21
+protobuf==4.25.9
 scikit-learn==1.5.2
 pandas==2.2.3
 Pillow==10.4.0
